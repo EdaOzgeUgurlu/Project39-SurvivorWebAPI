@@ -1,0 +1,6 @@
+@Project39_SurvivorWebAPI_HostAddress = http://localhost:5283
+
+GET {{Project39_SurvivorWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
